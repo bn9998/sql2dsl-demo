@@ -1,0 +1,5 @@
+com/c3stones/es/repository/UserRepositoryTest.class
+com/c3stones/es/convert/DSLConvertTest.class
+com/c3stones/common/DataFactory.class
+com/c3stones/db/mapper/UserMapperTest.class
+com/c3stones/SQL2DSLTest.class
